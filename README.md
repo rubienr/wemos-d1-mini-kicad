@@ -10,8 +10,7 @@ of the WeMos D1 mini board.
 
 The library provides several footprints and shape alignments:
 
-![butler 3d view](https://github.com/poultry-butler/hardware/blob/master/ubienr/wemos-d1-mini-kicad/meta/library-illustration1.jpg)
-![butler 3d view](https://github.com/poultry-butler/hardware/blob/master/ubienr/wemos-d1-mini-kicad/meta/library-illustration2.jpg)
-![butler 3d view](https://github.com/poultry-butler/hardware/blob/master/ubienr/wemos-d1-mini-kicad/meta/library-illustration3.jpg)
-![butler 3d view](https://github.com/poultry-butler/hardware/blob/master/ubienr/wemos-d1-mini-kicad/meta/library-illustration4.jpg)
-
+![butler 3d view](https://github.com/rubienr/wemos-d1-mini-kicad/blob/master/meta/illustration1.png)
+![butler 3d view](https://github.com/rubienr/wemos-d1-mini-kicad/blob/master/meta/illustration2.png)
+![butler 3d view](https://github.com/rubienr/wemos-d1-mini-kicad/blob/master/meta/illustration3.png)
+![butler 3d view](https://github.com/rubienr/wemos-d1-mini-kicad/blob/master/meta/illustration4.png)
