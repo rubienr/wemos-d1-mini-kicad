@@ -1,4 +1,4 @@
-(module wemos-d1-mini (layer F.Cu) (tedit 58B52FC3)
+(module wemos-d1-mini-connectors-only (layer F.Cu) (tedit 58B56BF5)
   (fp_text reference REF** (at -19.3 0 90) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -44,11 +44,6 @@
   (pad 7 thru_hole circle (at 6.35 11.43) (size 1.8 1.8) (drill 1.016) (layers *.Cu *.Mask))
   (pad 9 thru_hole circle (at 8.89 -11.43) (size 1.8 1.8) (drill 1.016) (layers *.Cu *.Mask))
   (pad 8 thru_hole circle (at 8.89 11.43) (size 1.8 1.8) (drill 1.016) (layers *.Cu *.Mask))
-  (model ${KIPRJMOD}/3dshapes/wemos_d1_mini.3dshapes/d1_mini_shield-freecad.wrl
-    (at (xyz -0.7047244094488189 -0.5039370078740159 0.3307086614173229))
-    (scale (xyz 0.3937 0.3937 0.3937))
-    (rotate (xyz 0 180 90))
-  )
   (model ${KIPRJMOD}/3dshapes/wemos_d1_mini.3dshapes/SLW-108-01-G-S.wrl
     (at (xyz 0 -0.4488188976377953 0))
     (scale (xyz 0.3937 0.3937 0.3937))
